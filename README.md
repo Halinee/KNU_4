@@ -1,12 +1,19 @@
 # REAL CODING 2주차 과제
 ## GITHUB 4조 실습
+### 조원 목록
 ---
 **이현수**
+
+
 **김종원**
+
+
 **조성준**
+
+
 **이승환**
 
-***
+
 ---
 ```c
 #include<stdio.h>
@@ -15,11 +22,11 @@ int main(void) {
 	return 0;
 }
 ```
-***
+
 ---
 >이것은 인용 기능입니다.
 ---
-[바로가기](http://help.github.com/categories/writing-on-github/)
+[GitHub Help](http://help.github.com/categories/writing-on-github/)
 ---
 
 ## 사용한 방법
