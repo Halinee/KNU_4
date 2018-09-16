@@ -6,11 +6,6 @@
 **조성준**
 **이승환**
 
-~~~ Markdown을 이용한
-~~~ 4조만의
-~~~ .md 꾸미기
-
-
 ***
 ---
 ```c
@@ -27,3 +22,10 @@ int main(void) {
 [바로가기](http://help.github.com/categories/writing-on-github/)
 ---
 
+## 사용한 방법
+- 헤더
+- 강조
+- 리스트
+- 코드
+- 링크
+- 인용
