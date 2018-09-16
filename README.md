@@ -20,6 +20,8 @@ int main(void) {
 >이것은 인용 기능입니다.
 ---
 [바로가기](http://help.github.com/categories/writing-on-github/)
+
+[Riot Games](https://www.riotgames.com/en)
 ---
 
 ## 사용한 방법
