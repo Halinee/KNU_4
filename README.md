@@ -4,6 +4,11 @@
 **이현수**
 **김종원**
 **조성준**
+
+~~~Markdown을이용하여
+~~~4조만의
+~~~.md만들기
+
 **이승환**
 ***
 ---
@@ -20,3 +25,4 @@ int main(void) {
 ---
 [바로가기](http://help.github.com/categories/writing-on-github/)
 ---
+
